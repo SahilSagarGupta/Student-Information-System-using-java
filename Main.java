@@ -13,7 +13,7 @@ public class Main {
         student1.addGrade(90);
 
         // Create GraduateStudent objects
-        GraduateStudent gradStudent1 = new GraduateStudent("Anjali", 21, "Kharar", "10999", "Quantum Physics");
+        GraduateStudent gradStudent1 = new GraduateStudent("Anjli", 21, "Kharar", "10999", "Quantum Physics");
         gradStudent1.addCourse(course1);
         gradStudent1.addGrade(95);
         gradStudent1.addGrade(98);
