@@ -44,26 +44,16 @@ This is a console-based **Student Information System** built using **core Java O
 └── Grade.java
 
 
-
-
-**🖥️ Step-by-Step to Compile and Run**
-
+## ⚙️ How to Run the Project (Terminal/Command Prompt)
 ✅ Step 1: Place all files in the same folder
-For example, create a folder called StudentInfoSystem and move all .java files into it.
+Example folder name: StudentInfoSystem
 
 ✅ Step 2: Open terminal or command prompt in that folder
 Windows: Shift + Right Click → “Open PowerShell window here”
 Mac/Linux: Right click → “Open in Terminal”
 
 ✅ Step 3: Compile all Java files
-In terminal, run:  javac *.java 
-This command compiles all .java files in the folder.
+javac *.java
 
 ✅ Step 4: Run the program
-After successful compilation, run the main class: java Main
-
-✅ Optional: Use IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code)
-Create a new Java Project
-Add all .java files under the src directory
-Right-click Main.java → Run
-
+java Main
