@@ -43,8 +43,9 @@ This is a console-based **Student Information System** built using **core Java O
 ├── Course.java
 └── Grade.java
 
+---
 
-## ⚙️ How to Run the Project (Terminal/Command Prompt)
+## **⚙️ How to Run the Project (Terminal/Command Prompt)**
 ✅ Step 1: Place all files in the same folder
 Example folder name: StudentInfoSystem
 
