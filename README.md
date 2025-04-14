@@ -42,19 +42,3 @@ This is a console-based **Student Information System** built using **core Java O
 ├── GraduateStudent.java
 ├── Course.java
 └── Grade.java
-
----
-
-## **⚙️ How to Run the Project (Terminal/Command Prompt)**
-✅ Step 1: Place all files in the same folder
-Example folder name: StudentInfoSystem
-
-✅ Step 2: Open terminal or command prompt in that folder
-Windows: Shift + Right Click → “Open PowerShell window here”
-Mac/Linux: Right click → “Open in Terminal”
-
-✅ Step 3: Compile all Java files
-javac *.java
-
-✅ Step 4: Run the program
-java Main
