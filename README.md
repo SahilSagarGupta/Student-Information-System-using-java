@@ -1,16 +1,48 @@
-# Student-Information-System-using-java
+# 🎓 Student Information System – Java Project
 
-**Summary:**
-This Java mini project is a console-based application that manages student details using core object-oriented programming (OOP) concepts. It involves multiple classes like Person, Student, GraduateStudent, and Course, showcasing features such as multilevel inheritance, method and constructor overloading, interfaces, and static members.
+## 📌 Project Overview
 
-The **Student** class extends **Person** and implements the **Grade** interface to calculate average grades.
-The **GraduateStudent** class extends **Student** and adds a thesis topic, demonstrating multilevel inheritance.
-The **Course** class represents course details, and students can enroll in multiple courses.
-A **static** variable keeps track of the total number of students created.
-The project runs via a **Main** class, where different student and course objects are created and tested.
+This is a console-based **Student Information System** built using **core Java OOP concepts**. The project demonstrates how to manage student and course data using classes, inheritance, interfaces, and static variables/methods.
 
-**Technologies Used:** Core Java, OOP Principles
-**Key Concepts:** Inheritance, Interfaces, Static Methods, Constructor Overloading
+---
+
+## 🚀 Features
+
+- Add student and graduate student details
+- Enroll students in courses
+- Assign and calculate average grades
+- Display student and course information
+- Track total number of students
+
+---
+
+## 🛠️ Technologies Used
+
+- Java
+- Object-Oriented Programming (OOP)
+
+---
+
+## 🧠 Concepts Demonstrated
+
+- ✅ Class & Object Design
+- ✅ **Constructor and Method Overloading**
+- ✅ **Multilevel Inheritance** (`Person` → `Student` → `GraduateStudent`)
+- ✅ **Interfaces** for grade calculation
+- ✅ **Static variables/methods** to track student count
+
+---
+
+## 📂 Project Structure
+
+```plaintext
+├── Main.java
+├── Person.java
+├── Student.java
+├── GraduateStudent.java
+├── Course.java
+└── Grade.java
+
 
 
 
